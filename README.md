@@ -1,27 +1,49 @@
-Dogglers - Starter Code
+Dogglers 
 ==================================
 
-Starter code for the second independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
+**Description**
 
-Introduction
-------------
+An Android Application that displays doogler profiles in three different layouts:
+- vertical
+- horizontal
+- grid
 
-This is the starter code for the Dogglers app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3) of Android Basics [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2). This project is an opportunity for you to demonstrate the concepts you learned in the unit.
 
-Pre-requisites
---------------
+Project sourced from:
+- [Project: Dogglers app](https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app)
+- Starter code for the independent project for [google-developer-training/android-basics-kotlin-dogglers-app](https://github.com/google-developer-training/android-basics-kotlin-dogglers-app/tree/main).
 
-- Complete [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2) of Android Basics in Kotlin
+### Screenshots
+Screenshots of the project
 
-Getting Started
----------------
+#### Homepage view
+<img src="screenshots/homepage.png" width="320" height="676" alt="Screenshot"/>
 
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-dogglers-app#0)
+#### Vertical layout
+<img src="screenshots/vertical.png" width="320" height="100" alt="Screenshot"/>
 
-Tips
-----
+#### Horizontal layout
+<img src="screenshots/horizontal.png.png" width="320" height="676" alt="Screenshot"/>
 
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+#### Grid layout
+<img src="screenshots/grid.png" width="320" height="676" alt="Screenshot"/>
+
+### Technology Stack
+
+- Kotlin
+- RecyclerView
+    - ItemAdapter
+- Material Design
+    - LinearLayout
+
+### How to run Script locally
+
+This sample uses the Gradle build system.
+
+To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
+
+
+### About the Developer
+Jessica Dene Earley-Cha    
+[Bio](https://www.jessicadeneearley-cha.com/jessica)   
+[Linkedin](https://www.linkedin.com/in/jessicaearley)    
