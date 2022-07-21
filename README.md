@@ -36,6 +36,11 @@ Screenshots of the project
 - Material Design
     - LinearLayout
 
+### Tests
+<img src="screenshots/tests.png" width="860" height="775" alt="Screenshot"/>
+
+
+
 ### How to run Script locally
 
 This sample uses the Gradle build system.
